@@ -1,0 +1,29 @@
+!!!!!!!!!!!!!!!!!!!!!!!
+!!  General Configs  !!
+!!!!!!!!!!!!!!!!!!!!!!!
+
+! Enable scrolling through terminal
+URxvt*scrollWithBuffer: true
+
+! Disable scrolling bar(s)
+URxvt*scrollBar: false
+
+! Makes the cursor blink
+URxvt.cursorBlink : true
+
+!!!!!!!!!!!!!
+!!  Fonts  !!
+!!!!!!!!!!!!!
+
+*.font: xft:JetBrains Mono:style=Regular:size=11:antialias=true
+*.boldFont: xft:JetBrains Mono:style=Bold:size=11:antialias=true
+URxvt.lineSpace: -1
+
+!!!!!!!!!!!!!!!!!!!!
+!!  Transparency  !!
+!!!!!!!!!!!!!!!!!!!!
+
+URxvt*transparent: true
+URxvt*shading: 30
+
+! URxvt*background: rgba:0000/0000/1111/ffff
