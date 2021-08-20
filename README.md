@@ -1,6 +1,6 @@
 here are some of my config files...
 
-will post zathura one once i find it (it's not in my ~/.config/zathura for some reason, it was literally there yesterday
+zathura config is done through https://github.com/GideonWolfe/Zathura-Pywal
 
 requires:
 - pywal and some background image program that pywal supports (i use hsetroot)
